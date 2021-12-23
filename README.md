@@ -15,4 +15,4 @@ Ref: https://en.wikipedia.org/wiki/B%C3%A9zier_curve
       python main.py
 
 
-
+![Screenshot](images/screenshot.png?raw=true "Screenshot")
