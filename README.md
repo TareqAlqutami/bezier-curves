@@ -16,3 +16,5 @@ Ref: https://en.wikipedia.org/wiki/B%C3%A9zier_curve
 
 
 ![Screenshot](images/screenshot.png?raw=true "Screenshot")
+
+![Animation](images/Animation.gif?raw=true "Animation")
